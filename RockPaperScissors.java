@@ -1,7 +1,4 @@
-/*Normany Chan
-CS 21 - Intro to Computer Science-Java - 50963
-7-26-2020
-*/
+/*normanyc 7-26-2020*/
 import java.util.*;
 import java.io.*;
 public class RockPaperScissors
